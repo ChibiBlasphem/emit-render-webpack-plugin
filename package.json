@@ -1,7 +1,6 @@
 {
   "name": "emit-render-webpack-plugin",
-  "version": "1.0.0",
-  "description": "",
+  "description": "Webpack plugin which emit file with data coming from js execution",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
